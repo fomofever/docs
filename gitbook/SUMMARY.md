@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Problem Statement](problem-statement.md)
+* [FOMO Meter](fomo-meter.md)
+* [AI Signal Analysis](ai-signal-analysis.md)
+* [Safety Radar](safety-radar.md)
+* [Trust Tier System](trust-tier-system.md)
+* [Launch Source Detection](launch-source-detection.md)
+* [Profile Claiming](profile-claiming.md)
+* [Data Infrastructure](data-infrastructure.md)
+* [Tokenomics](tokenomics.md)
+* [Security](security.md)
+* [Roadmap](roadmap.md)
+* [Disclaimer](disclaimer.md)
